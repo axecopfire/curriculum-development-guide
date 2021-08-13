@@ -5,3 +5,5 @@
 ## Course Structure
 
 ## Course Schedule
+
+## Course Resources
